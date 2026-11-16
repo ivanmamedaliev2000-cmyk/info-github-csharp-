@@ -1,9 +1,9 @@
-class Programm
-{
-static Programm
-{
-statiс void Main()
-{
-Console.WriteLine ("привте GitHub");
-}
-}
+class Program 
+{ 
+static void Main() 
+{ 
+Console.Write("Как тебя зовут? "); 
+string name = Console.ReadLine() ?? ""; 
+Console.WriteLine("Привет, " + name + "!"); 
+} 
+} 
