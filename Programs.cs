@@ -2,7 +2,7 @@ class Programm
 {
 static Programm
 {
-statik void Main()
+statiс void Main()
 {
 Console.WriteLine ("привте GitHub");
 }
