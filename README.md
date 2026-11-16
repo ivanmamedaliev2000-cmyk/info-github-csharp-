@@ -1,2 +1,2 @@
-# info-github-csharp-
+# Мой первый проэкт на GitHub
 C#
